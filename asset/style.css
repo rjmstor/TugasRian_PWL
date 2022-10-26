@@ -1,0 +1,19 @@
+.navbar{
+    background-color: rgb(243, 84, 10) !important;
+    border: none !important;
+    height: 100px;
+
+}
+
+.navbarDropdown{
+    background-color: olive !important;
+    border: none !important;
+    height: 40px;
+}
+
+.navbar-brand{
+    background-color: rgb(233, 233, 225) !important;
+    border: none !important;
+    height: 40px;
+
+}   
